@@ -6,10 +6,12 @@ body {
     background-size: cover;
 }
 
+/* styles the header text */
 h1 {
     color: rgb(45, 190, 238);
 }
 
+/* styles the footer */
 .footer {
     height: 50px;
     border-top: 5px purple solid;
@@ -34,36 +36,43 @@ h1 {
     justify-content: flex-end;
 } */
 
+/* adds a border to the navbar to match the footer */
 .navBorder {
     border-bottom: 5px solid purple;
 }
 
+/* changes the font size for my name */
 .bigFont {
     font-size: 30px;
 }
 
+/* adds style to the button for my name */
 .nameBox{
     background-color: purple;
     /* width: 120px; */
     padding: 0px 15px;
 }
 
+/* gives the background of the main content flavor */
 .flavor {
     background-color: white;
     margin: 10px 10px;
 }
 
+/* gives the background of the main content flavor for the contact page */
 .flavorContact {
     background-color: white;
     margin: 10px 10px;
     padding-bottom: 15px;
 }
 
+/* styles the placeholder photo */
 .baconator {
     float: left;
     padding-right: 15px;
 }
 
+/* modifies the button on the contact page */
 .buttonMod {
     padding: 5px 10px;
     border-radius: 0;

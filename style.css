@@ -1,9 +1,12 @@
-body {
-    background: grey;
+.bgFlavor {
     background-image: url('https://img.freepik.com/free-photo/80s-futuristic-retro-synthwave_122462-34.jpg?size=626&ext=jpg');
-    background-position: center;
-    /* background-repeat: no-repeat; */
-    background-size: cover;
+    background-size: 100% 100vh;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    background-attachment: scroll;
 }
 
 /* styles the header text */

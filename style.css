@@ -1,0 +1,70 @@
+body {
+    background: grey;
+    background-image: url('https://img.freepik.com/free-photo/80s-futuristic-retro-synthwave_122462-34.jpg?size=626&ext=jpg');
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(45, 190, 238);
+}
+
+.footer {
+    height: 50px;
+    border-top: 5px purple solid;
+}
+
+/* .jumboMod {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    height: 95%;
+    background-image: url("https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/30740280_10155767957879055_7969917408116736000_o.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=udSxBMGsgnwAX95jZA1&_nc_ht=scontent-sea1-1.xx&oh=0840ddc01ef89697b2cf0d48ed828df3&oe=5FF5A203");
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumboText {
+    color: white;
+} */
+
+/* .navMod {
+    justify-content: flex-end;
+} */
+
+.navBorder {
+    border-bottom: 5px solid purple;
+}
+
+.bigFont {
+    font-size: 30px;
+}
+
+.nameBox{
+    background-color: purple;
+    /* width: 120px; */
+    padding: 0px 15px;
+}
+
+.flavor {
+    background-color: white;
+    margin: 10px 10px;
+}
+
+.flavorContact {
+    background-color: white;
+    margin: 10px 10px;
+    padding-bottom: 15px;
+}
+
+.baconator {
+    float: left;
+    padding-right: 15px;
+}
+
+.buttonMod {
+    padding: 5px 10px;
+    border-radius: 0;
+}

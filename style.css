@@ -1,14 +1,3 @@
-.bgFlavor {
-    background-image: url('https://img.freepik.com/free-photo/80s-futuristic-retro-synthwave_122462-34.jpg?size=626&ext=jpg');
-    background-size: 100% 100vh;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    z-index: -1;
-    background-attachment: scroll;
-}
-
 /* styles the header text */
 h1 {
     color: rgb(45, 190, 238);
@@ -39,6 +28,17 @@ h1 {
     justify-content: flex-end;
 } */
 
+.bgFlavor {
+    background-image: url('https://img.freepik.com/free-photo/80s-futuristic-retro-synthwave_122462-34.jpg?size=626&ext=jpg');
+    background-size: 100% 100vh;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    background-attachment: scroll;
+}
+
 /* adds a border to the navbar to match the footer */
 .navBorder {
     border-bottom: 5px solid purple;
@@ -60,6 +60,7 @@ h1 {
 .flavor {
     background-color: white;
     margin: 10px 10px;
+    height: 800px;
 }
 
 /* gives the background of the main content flavor for the contact page */

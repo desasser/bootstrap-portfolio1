@@ -1,12 +1,11 @@
-/* styles the header text */
-h1 {
-    color: rgb(45, 190, 238);
+h2 {
+    padding-left: 10%;
 }
 
 /* styles the footer */
 .footer {
     height: 50px;
-    border-top: 5px purple solid;
+    border-top: 5px #6ed6ff solid;
 }
 
 /* .jumboMod {
@@ -29,7 +28,7 @@ h1 {
 } */
 
 .bgFlavor {
-    background-image: url('https://img.freepik.com/free-photo/80s-futuristic-retro-synthwave_122462-34.jpg?size=626&ext=jpg');
+    background-image: url('https://images.squarespace-cdn.com/content/5939a7c7579fb356d5b9dfbc/1560533735371-OHI1VUADTMXECY4UZWAE/best-subtle-black-white-background-textures.jpg?content-type=image%2Fjpeg');
     background-size: 100% 100vh;
     width: 100vw;
     height: 100vh;
@@ -41,7 +40,7 @@ h1 {
 
 /* adds a border to the navbar to match the footer */
 .navBorder {
-    border-bottom: 5px solid purple;
+    border-bottom: 5px solid #6ed6ff;
 }
 
 /* changes the font size for my name */
@@ -51,16 +50,23 @@ h1 {
 
 /* adds style to the button for my name */
 .nameBox{
-    background-color: purple;
+    background-color: #6ed6ff;
     /* width: 120px; */
     padding: 0px 15px;
+    border-radius: 0.25em;
 }
+
+/* List styling */
+/* .listStyle {
+    margin-left: 5%;
+    padding: 5px;
+} */
 
 /* gives the background of the main content flavor */
 .flavor {
     background-color: white;
     margin: 10px 10px;
-    height: 400px;
+    /* height: 400px; */
 }
 
 /* gives the background of the main content flavor for the contact page */

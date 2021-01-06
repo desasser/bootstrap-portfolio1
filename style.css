@@ -23,10 +23,6 @@ h2 {
     color: white;
 } */
 
-/* .navMod {
-    justify-content: flex-end;
-} */
-
 .bgFlavor {
     background-image: url('https://images.squarespace-cdn.com/content/5939a7c7579fb356d5b9dfbc/1560533735371-OHI1VUADTMXECY4UZWAE/best-subtle-black-white-background-textures.jpg?content-type=image%2Fjpeg');
     background-size: 100% 100vh;
@@ -67,7 +63,7 @@ h2 {
 .flavorContact {
     background-color: white;
     margin: 10px 10px;
-    padding-bottom: 15px;
+    padding: 2em;
 }
 
 /* styles the placeholder photo */

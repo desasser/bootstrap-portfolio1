@@ -2,6 +2,10 @@ h2 {
     padding-left: 10%;
 }
 
+a {
+    color: black;
+}
+
 /* styles the footer */
 .footer {
     height: 50px;
@@ -36,17 +40,18 @@ h2 {
 
 /* adds a border to the navbar to match the footer */
 .navBorder {
-    border-bottom: 5px solid #6ed6ff;
+    border-bottom: 5px solid #d0e8f2;
 }
 
 /* changes the font size for my name */
 .bigFont {
     font-size: 30px;
+    color: black !important;
 }
 
 /* adds style to the button for my name */
 .nameBox{
-    background-color: #6ed6ff;
+    background-color: #d0e8f2;
     /* width: 120px; */
     padding: 0px 15px;
     border-radius: 0.25em;
@@ -54,16 +59,18 @@ h2 {
 
 /* gives the background of the main content flavor */
 .flavor {
-    background-color: white;
-    margin: 10px 10px;
-    /* height: 400px; */
+    background-color: #fcf8ec;
+    margin: 20px 10px;
+    padding: 2em;
+    /* height: 800px; */
 }
 
 /* gives the background of the main content flavor for the contact page */
 .flavorContact {
-    background-color: white;
+    background-color: #fcf8ec;
     margin: 10px 10px;
     padding: 2em;
+    border-radius: 0.25em;
 }
 
 /* styles the placeholder photo */
@@ -76,4 +83,65 @@ h2 {
 .buttonMod {
     padding: 5px 10px;
     border-radius: 0;
+}
+
+.link-style {
+    color: #254c5c;
+
+}
+
+.project-card {
+    color: black;
+    border-radius: .25em;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.first-project {
+    background-color: #d0e8f2;
+}
+
+.second-project {
+    background-color: #79a3b1;
+}
+
+.third-project {
+    background-color: #456268;
+}
+
+.card-behavior:hover{
+    transform: translateY(-10px);
+    transition: 0.2s ease;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.card-behavior {
+    transition: 0.2s ease;
+}
+
+.repo-link {
+    justify-content: flex-end;
+    padding-left: 30px;
+}
+
+.repo-link:hover {
+    color:#fcf8ec;
+}
+
+.image-style {
+    border-radius: 0.25em;
+}
+
+#resume-flavor {
+    font-size: 24px;
+    color: #fcf8ec;
+    background-color: #6ed6ff;
+    padding: 10px 15px;
+    border-radius: 0.25em;
+    margin-bottom: 1em;
 }

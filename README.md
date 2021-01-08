@@ -1,7 +1,29 @@
 # bootstrap-portfolio1
+## Completed by: 
+### desasser
 
-This project was completed as practice for building a personal portfolio and to utilize new skills for developing a responsive lay-out. The primary focus of the project was to utilize bootstrap and its grid system to layout the pages.
+<br />
 
-This also served as practice for using semantic html, utilizing the GitHub repository tools, and basics of html/css.
+## Link: https://desasser.github.io/bootstrap-portfolio1/
 
-There are no steps required to install this project, however there are several pages linked for perusal.
+<br />
+- - - - 
+
+## Goals: 
+### Develop a personal portfolio to display recent projects and a little bit about myself. 
+
+<br />
+
+## Key Functionality:
+* Prepare a contact form, a portfolio of recent work, and an about me page
+* Provide links to recent projects for both the deployed site and the GitHub repo associated with the project
+* Include links to GitHub, LinkedIn, and any other social presence available
+
+<br />
+
+## Instructions:
+* Load the page and browse my projects and the available info about me at your leisure
+* Reach out to me if you are interested, via LinkedIn, Instagram, or email
+
+## Screenshot: 
+<img src="portfolio landing page.JPG" alt="Portfolio Landing Page">

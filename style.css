@@ -9,7 +9,7 @@ a {
 i {
     font-size: 36px;
     color:#fcf8ec;
-    margin-top: 8px;
+    margin: 8px 4px 0px 4px;
 }
 
 footer {
@@ -79,7 +79,7 @@ footer {
     background-color: #fcf8ec;
     margin: 20px 10px;
     padding: 2em;
-    /* height: 800px; */
+    border-radius: 0.25em;
 }
 
 /* gives the background of the main content flavor for the contact page */
@@ -93,8 +93,12 @@ footer {
 /* styles the placeholder photo */
 .baconator {
     float: left;
-    padding-right: 15px;
     border-radius: 0.25em;
+    margin-right: 1.5em;
+}
+
+.test {
+    display:inline;
 }
 
 /* modifies the button on the contact page */
@@ -157,9 +161,10 @@ a:hover {
 
 #resume-flavor {
     font-size: 24px;
-    color: #fcf8ec;
-    background-color: #6ed6ff;
+    color: black;
+    background-color:#d0e8f2;
     padding: 10px 15px;
     border-radius: 0.25em;
     margin-bottom: 1em;
+    float: right;
 }

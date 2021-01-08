@@ -1,5 +1,7 @@
 h2 {
-    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+    text-align: center;
 }
 
 a {
@@ -149,6 +151,7 @@ a:hover {
 .repo-link {
     justify-content: right;
     padding-left: 30px;
+    justify-content: center;
 }
 
 .repo-link:hover {

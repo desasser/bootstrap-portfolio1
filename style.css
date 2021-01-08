@@ -151,7 +151,10 @@ a:hover {
 .repo-link {
     justify-content: right;
     padding-left: 30px;
-    justify-content: center;
+}
+
+.repo-link-style {
+    text-align: right;
 }
 
 .repo-link:hover {

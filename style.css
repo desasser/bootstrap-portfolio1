@@ -6,10 +6,27 @@ a {
     color: black;
 }
 
-/* styles the footer */
-.footer {
+i {
+    font-size: 36px;
+    color:#fcf8ec;
+    margin-top: 8px;
+}
+
+footer {
+    background-color: #343a40;
     height: 50px;
-    border-top: 5px #6ed6ff solid;
+}
+
+.icon-home {
+    text-align: center;
+}
+
+.ig-link {
+    color: blue;
+}
+
+.ig-link:hover {
+    color:salmon;
 }
 
 /* .jumboMod {
@@ -77,6 +94,7 @@ a {
 .baconator {
     float: left;
     padding-right: 15px;
+    border-radius: 0.25em;
 }
 
 /* modifies the button on the contact page */
@@ -87,7 +105,6 @@ a {
 
 .link-style {
     color: #254c5c;
-
 }
 
 .project-card {
@@ -109,6 +126,10 @@ a {
     background-color: #456268;
 }
 
+.card-behavior {
+    transition: 0.2s ease;
+}
+
 .card-behavior:hover{
     transform: translateY(-10px);
     transition: 0.2s ease;
@@ -120,12 +141,9 @@ a:hover {
     color: black;
 }
 
-.card-behavior {
-    transition: 0.2s ease;
-}
 
 .repo-link {
-    justify-content: flex-end;
+    justify-content: right;
     padding-left: 30px;
 }
 

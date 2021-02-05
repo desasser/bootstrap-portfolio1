@@ -125,11 +125,15 @@ footer {
 }
 
 .second-project {
-    background-color: #79a3b1;
+    background-color: #A5C6D2;
 }
 
 .third-project {
-    background-color: #456268;
+    background-color: #5F838D;
+}
+
+.fourth-project {
+  background-color: #456268;
 }
 
 .card-behavior {
